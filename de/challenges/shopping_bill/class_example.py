@@ -26,4 +26,3 @@ if __name__ == '__main__':
     adder.add(3)
     adder.add(4)
     print(adder.result)
-
